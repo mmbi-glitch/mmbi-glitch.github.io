@@ -1,5 +1,12 @@
 ---
+
+# front matter is a snippet of YAML placed between two triple-dashed lines at the start of a file.
+
 # front matter tells Jekyll to process Liquid
+
+# front matter can be used to add variables
+
+age: 5
 ---
 
 <!DOCTYPE html>
@@ -9,6 +16,6 @@
     <title>Home</title>
   </head>
   <body>
-    <h1>{{ "Hello World!" | downcase}}</h1>
+    <h1>{{ "Hello World, I am page.number years old!" | downcase}}</h1>
   </body>
 </html>
