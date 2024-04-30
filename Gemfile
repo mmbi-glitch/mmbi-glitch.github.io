@@ -32,6 +32,15 @@ gem "duktape"
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
 
+# bigdemical library
+gem 'bigdecimal', '~> 3.1', '>= 3.1.7'
+
+# csv library
+gem 'csv', '~> 3.0'
+
+# base64 library
+gem 'base64', '~> 0.2.0'
+
 group :jekyll_plugins do
   gem "jekyll-default-layout"
     gem "jekyll-feed"
@@ -48,6 +57,7 @@ group :jekyll_plugins do
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"
   gem "jekyll-compose"
+  gem "jekyll-remote-theme"
 end
 
 gem 'wdm' if Gem.win_platform?
