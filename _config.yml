@@ -19,8 +19,11 @@
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
 
+# Set the time zone for site generation. 
+timezone:              Europe/London
+
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Mohammad Billah
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,23 +32,28 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Code for Life
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              ["Cybersecurity", "Hacking", "Programming", "Development", "Embedded", "Python", "C/C++", "Java"]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/me-256.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Mohammad Billah
+  email:               mmbillah02@gmail.com
+  picture:             /assets/img/me-256.jpg 
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  social:
+     twitter:             sbillah02
+     linkedin:            mmbillah02
+     github:              mmbi-glitch
+     
 
 # Add links to the sidebar.
 menu:
@@ -88,7 +96,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/hacker.jpg
+accent_image:          /assets/img/hacker.gif
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
