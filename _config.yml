@@ -63,6 +63,8 @@ menu:
     url:               /hacklog/
   - title:             Dev.Log
     url:               /devlog/
+  - title:             Tech#Log
+    url:               /techlog/
   - title:             Resume
     url:               /resume/
   - title:             Tags
@@ -71,16 +73,16 @@ menu:
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+# legal:
+#   - title:             LICENSE
+#     url:               /LICENSE/
+#   - title:             NOTICE
+#     url:               /NOTICE/
+#   - title:             CHANGELOG
+#     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © MM Billah, 2024. All rights reserved. Made with ⚡ and ☕.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -102,7 +104,7 @@ remote_theme: hydecorp/hydejack@v9
  
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/hacker.gif
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(0, 124, 65)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.

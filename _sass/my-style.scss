@@ -1,3 +1,11 @@
+// changed css global variables to add permanent dark mode :)
+
+:root {
+  --body-color: #cccccc;
+  --body-bg: #2a2d2f;
+  --gray: #a4a4a4;
+}
+
 .dl-table {
   a {
     @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {

@@ -1,25 +1,29 @@
 ---
 cover: true
-image: /assets/img/skull-favico.png
+title: Home
 ---
 
-# 👨‍💻 Hello World, Happy Hacking! 👋
+## 👨‍💻 Hello World, Happy Hacking! 👋
 
-### $cat mmbi-glitch
+<hr style="height:0px; visibility:hidden;" />
 
-[mmbi-glitch.github.io](https://mmbi-glitch.github.io) is my personal website that doubles as both my portfolio and a technology blog.
+#### >cat mmbi-glitch
 
-I write mainly about cybersecurity, hacking, and software development, with a few other tech-related stuff (e.g. embedded systems, hardware) sprinkled here and there.
+[mmbi-glitch.github.io](https://mmbi-glitch.github.io) is my personal website that doubles as both my portfolio and a bunch of blogs.
 
-This website was inspired by the awesome blog by Mike Sass, [shellsharks.com](https://shellsharks.com/).
+I write mainly about cybersecurity, hacking, and software development, along with some tech-related stuff.
 
-### $whoami
+This website's inspiration comes from the awesome blog by Mike Sass, [shellsharks.com](https://shellsharks.com/).
 
-I'm Mohammad Billah, _a.k.a._ Saad. I am an InfoSec Enthusiast, Student-For-Life, Moderate Gamer + Game Dev, Software Dev, and Writer, based in London, UK.
+#### >whoami
 
-Find more details about me in the [About](/about/) page. Alternatively, check out my resume.
+I'm Mohammad Billah, _a.k.a._ Saad.
 
-### $nslookup -type=socials
+I am an InfoSec Enthusiast, Student-For-Life, Moderate Gamer, Software Dev, and Writer, based in London, UK.
+
+Find more info about me in the [About](/about/) page. Alternatively, check out my resume.
+
+#### >nslookup -type=socials
 
 For those who want to contact me, you can reach me via the following methods:
 
