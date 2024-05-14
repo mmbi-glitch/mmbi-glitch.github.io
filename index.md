@@ -9,9 +9,9 @@ title: Home
 
 #### >cat mmbi-glitch
 
-[mmbi-glitch.github.io](https://mmbi-glitch.github.io) is my personal website that doubles as both my portfolio and a bunch of blogs.
+[mmbi-glitch.github.io](https://mmbi-glitch.github.io) is my personal website that doubles as both a portfolio and blog.
 
-I write mainly about cybersecurity, hacking, and software development, along with some tech-related stuff.
+I write mainly about infosec and software development, along with some tech-related stuff and life updates.
 
 This website's inspiration comes from the awesome blog by Mike Sass, [shellsharks.com](https://shellsharks.com/).
 
@@ -55,7 +55,7 @@ For those who want to contact me, you can reach me via the following methods:
 
   <li>
     <a href="https://discordapp.com/users/657106602540793857" title="Discord" class="no-mark-external">
-      <span><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6918e57475a843f59f_icon_clyde_black_RGB.svg" style="width: 16px; height: 16px"/></span>
+      <span><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" style="width: 16px; height: 16px"/></span>
       not_an_average_demon
       <span class="sr-only">Discord</span>
     </a>
