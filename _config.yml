@@ -103,7 +103,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/hacker.gif
+accent_image:          /assets/img/hacker-blur.gif
 accent_color:          rgb(0, 124, 65)
 
 # This is used for the `theme-color` meta tag,

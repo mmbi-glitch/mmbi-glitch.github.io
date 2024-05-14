@@ -11,7 +11,7 @@ title: Home
 
 [mmbi-glitch.github.io](https://mmbi-glitch.github.io) is my personal website that doubles as both a portfolio and blog.
 
-I write mainly about infosec and software development, along with some tech-related stuff and life updates.
+I write mainly about cybersecurity, and software development, along with some tech-related stuff and life updates.
 
 This website's inspiration comes from the awesome blog by Mike Sass, [shellsharks.com](https://shellsharks.com/).
 
