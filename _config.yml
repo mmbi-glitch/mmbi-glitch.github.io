@@ -63,8 +63,8 @@ menu:
     url:               /hacklog/
   - title:             Dev.Log
     url:               /devlog/
-  - title:             Casual#Log
-    url:               /casuallog/
+  - title:             Misc*Log
+    url:               /misclog/
   - title:             Resume
     url:               /resume/
   - title:             Tags
